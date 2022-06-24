@@ -1,0 +1,35 @@
+package ch07.extended.ex;
+
+public abstract class Unit { //게임에 사용되는 유닛 클래스를 구현
+	//미션: 3개의 클래스로부터 공통 부분을 뽑아서 Unit이라는 클래스를 만들고
+	//이 클래스를 상속 받도록 코드를 변경하시오 -> abstract 사용해본다.
+	
+	int x,y;
+	abstract void move(int x, int y); //추상 클래스
+	void stop() {/*현재 위치에서 정지*/}
+}
+	class Marine extends Unit{ //보병
+		
+		void move(int x, int y) {/*지정된 위치로 이동*/}
+	
+		void stimPack() {/*스팀팩을 사용한다.*/}
+	}
+	
+	class Tank extends Unit{ //탱크	
+		//현재 위치에 정지	
+		
+		void move(int x, int y) {/*지정된 위치로 이동*/}
+		
+		void changeMode() {/*이동 모드를 공격 모드로 전환한다.*/}
+	}
+	
+	class DropShip extends Unit{
+		int x,y; //현재 위치
+		
+		void move(int x, int y) {/*지정된 위치로 이동*/}
+
+		void load() {/*선택된 대상을 태운다(탑승)*/}
+		
+		void unload() {/*선택된 대상을 내린다.(하차)*/}
+	
+}
