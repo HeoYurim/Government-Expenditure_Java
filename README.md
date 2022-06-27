@@ -35,4 +35,5 @@
    <li> <strong>2022-06-22</strong> 예외 떠넘기기, throws, 사용자 정의 예외 실습, 예외처리 실습
    <li> <strong>2022-06-23</strong> 자바 API, java.lang 패키지 / java.util 패키지, Object, equals(), 객체 해시코드, toString()
    <li> <strong>2022-06-24</strong> 객체 복제((clone()), System  클래스, exit(), gc()
+   <li> <strong>2022-06-27</strong> Class 클래스, String 클래스, 
 </ul>
