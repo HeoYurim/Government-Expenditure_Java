@@ -39,4 +39,5 @@
    <li> <strong>2022-06-28</strong> trim(), valueOf(), StringTokenizer, StringBuffer, 정규 표현식, Arrays 클래스, 배열의 항목 비교, Arrays.sort(), 배열 항목 검색
    <li> <strong>2022-06-29</strong> 포장 클래스, 박싱과 언박싱, 자동박싱과 언박싱,  포장값, Math 클래스, Random 클래스, Date 클래스, Calendar 클래스
    <li> <strong>2022-06-30</strong> Format 클래스, 숫자 형식 클래스, 날짜 형식 클래스, MessageFormat, MessageFormat의 format() 메소드 
+   <li> <strong>2022-07-01</strong> 멀티 스레드, 멀티 태스킹, 스레드, 작업 스레드, Thread 클래스, 우선순위 방식, 동기화 메소드와 동기화 블록
 </ul>
