@@ -42,4 +42,5 @@
    <li> <strong>2022-07-01</strong> 멀티 스레드, 멀티 태스킹, 스레드, 작업 스레드, Thread 클래스, 우선순위 방식, 동기화 메소드와 동기화 블록
    <li> <strong>2022-07-04</strong> 제네릭, 비제네릭, 제네릭 타입으로 변환, 멀티 타입 파라미터, 제네릭 메소드, 제한된 타입 파라미터, 와일드 카드 타입, 제네릭 매개변수 활용
    <li> <strong>2022-07-05</strong> 컬렉션 프레임워크, 컬렉션 클래스와 인터페이스, List 컬렉션, ArrayList, Arrays.asList, 벡터, LinkedList, Set 컬렉션, 객체 검색, HashSet
+   <li> <strong>2022-07-06</strong> 객체 검색, HashSet, Map 컬렉션, HashMap, Hash 코드 재정의, HashTable, Properties
 </ul>
