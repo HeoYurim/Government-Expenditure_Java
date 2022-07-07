@@ -26,9 +26,11 @@ public class Country {
 		while(iter.hasNext()){ //false 반환, 있으면 true, 없으면 false
 			System.out.print(iter.next() + " ");
 		}
+		System.out.println();
 		
 		//04
-		
+		capitals.removeIf(s -> s.length() != 2);
+		capitals.forEach(s -> System.out.print(s + " "));
 		
 	}
 }
