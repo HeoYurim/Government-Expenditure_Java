@@ -44,4 +44,5 @@
    <li> <strong>2022-07-05</strong> 컬렉션 프레임워크, 컬렉션 클래스와 인터페이스, List 컬렉션, ArrayList, Arrays.asList, 벡터, LinkedList, Set 컬렉션, 객체 검색, HashSet
    <li> <strong>2022-07-06</strong> 객체 검색, HashSet, Map 컬렉션, HashMap, Hash 코드 재정의, HashTable, Properties
    <li> <strong>2022-07-07</strong> 람다식,  타겟 타입, 함수적 인터페이스, 매개 변수와 리턴 값이 없는 람다식, 매개 변수가 있는 람다식, 리턴 값이 있는 람다식, 클래스 멤버 사용, this, 로컬 변수 사용
+   <li> <strong>2022-07-08</strong> IO패키지, 입력 출력 스트림, java.io, InputStream, read() 메소드, OutputStream, write 메소드, Reader, int read(), Writer
 </ul>
